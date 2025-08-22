@@ -6,7 +6,7 @@ This repository contains tasks and projects completed by **Raghav Sharma** (Inte
 
 - PowerBI dashboards and reports
 
-  ## How to View a .pbix File
+## How to View a .pbix File
 
 1. **Download** the `.pbix` file from this repository.
 
