@@ -5,7 +5,13 @@ This repository contains tasks and projects completed by **Raghav Sharma** (Inte
 ## Contents
 
 - PowerBI dashboards and reports
-  
+
+  ## How to View a .pbix File
+
+1. **Download** the `.pbix` file from this repository.
+
+2. **Open** the downloaded file using Microsoft Power BI Desktop.
+
 ## Purpose
 
 To showcase my work, track progress, and share learning throughout the internship.
