@@ -1,6 +1,6 @@
 # PowerBI-Intern-Tasks
 
-This repository contains tasks and projects completed by **Raghav Sharma** (Intern ID: HR082025) during my PowerBI internship.
+This repository contains my tasks and projects done by me (**Raghav Sharma**) (Intern ID: HR082025) during my PowerBI internship.
 
 ## Contents
 
