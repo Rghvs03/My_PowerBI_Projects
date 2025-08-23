@@ -8,13 +8,9 @@ This repository contains my tasks and projects done by me (**Raghav Sharma**) (I
 
 ## How to View a .pbix File
 
-1. **Download** the `.pbix` file from this repository.
+1. **Download** the `.pbix` or .pdf file from this repository.
 
-                       OR
-
-   **Download** the .pdf file from this repository.
-
-2. **Open** the downloaded file using Microsoft Power BI Desktop.
+3. **Open** the downloaded file using Microsoft Power BI Desktop (.pbix file).
 
 ## Purpose
 
