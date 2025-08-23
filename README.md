@@ -1,6 +1,6 @@
 # PowerBI-Intern-Tasks
 
-This repository contains my tasks and projects done by me (**Raghav Sharma**) (Intern ID: HR082025) during my PowerBI internship.
+Repository for Topdataworks project - contains files, dashboards, and documentation related to Power BI analysis.
 
 ## Contents
 
